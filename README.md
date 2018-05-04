@@ -1,6 +1,8 @@
 # Selamat Datang di Tutorial membuat CRUD di CodeIgniter
 > Nama Saya Panji Ramadanu dari Program Studi Sistem Informasi di itutitut Teknologi Kalimantan salam kenal :)
 
+**Fitur yang dibuat dalam web ini adalah Create, Read, Update dan Delete semuanya bisa dilakukan fungsinya sebagaimana mestinnya tanpa error**
+
 ## Sedikit Penjelesan Mengenai CodeIgniter
 **CodeIgniter** sendiri adalah sebuah web application network yang bersifat open source yang digunakan untuk membangun aplikasi php dinamis. 
 
@@ -51,4 +53,4 @@ Merupakan method tambah pada bagian fungsi ketika user akan menambakan isi tabel
 
 Merupakan method yang digunakan untuk menghapus data yang ada di database MySql
 
-**Akan dilanjutkan segera mungkin**
+## Akan dilanjutkan segera mungkin
