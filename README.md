@@ -27,7 +27,7 @@ Sedikit pencerahan untuk memakai **CodeIgniter** ini kalian harus sudah bisa men
 > <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 Bagian kode ini merupakan bagian header yang terdapat pada file yang mengindikasikan file ini berformat bahasa pemograman php
 
->$this->load->model('PegawaiModel'); // Load PegawaiModel ke controller ini}
+>$this->load->model('PegawaiModel');} // Load PegawaiModel ke controller ini
 >
 Untuk melakukan load controller ini ketika dipanggil dengan bagian method autoload
 
