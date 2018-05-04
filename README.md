@@ -24,11 +24,11 @@ Sedikit pencerahan untuk memakai **CodeIgniter** ini kalian harus sudah bisa men
 ## Tutorial Code bagian CONTROLLER
 **Nama File : Pegawai.php**
 
- <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+> <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 Bagian kode ini merupakan bagian header yang terdapat pada file yang mengindikasikan file ini berformat bahasa pemograman php
 
 >$this->load->model('PegawaiModel'); // Load PegawaiModel ke controller ini}
-
+>
 Untuk melakukan load controller ini ketika dipanggil dengan bagian method autoload
 
 > public function index(){
@@ -53,5 +53,6 @@ Merupakan method tambah pada bagian fungsi ketika user akan menambakan isi tabel
 		redirect('pegawai');}
 
 Merupakan method yang digunakan untuk menghapus data yang ada di database MySql
+
 
 ## Akan dilanjutkan segera mungkin
