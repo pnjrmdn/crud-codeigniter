@@ -54,4 +54,4 @@ Merupakan method yang digunakan untuk menghapus data yang ada di database MySql
 
 
 
-**Akan dilanjutkan segera mungkin**
+## Akan dilanjutkan segera mungkin
