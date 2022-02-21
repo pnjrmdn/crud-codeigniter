@@ -55,4 +55,3 @@ Merupakan method tambah pada bagian fungsi ketika user akan menambakan isi tabel
 Merupakan method yang digunakan untuk menghapus data yang ada di database MySql
 
 
-## Akan dilanjutkan segera mungkin
